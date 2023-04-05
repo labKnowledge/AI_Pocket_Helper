@@ -1,2 +1,1 @@
-# AI_Pocket_Helper
-Created with CodeSandbox
+AI Pocket Helper is an AI-powered pocket assistant that contains tools that average user can use to become smart and active in workspace and normal lives. These tools help people make better decisions and stay organized in their daily lives. It provides users with added advantages in writing, researching and high-level communication. It also helps users stay organized by providing reminders, notifications, and task management tools. AI Pocket Helper is designed to be simple and intuitive, accessible to everyone, reliable and trustworthy, and secure. 
